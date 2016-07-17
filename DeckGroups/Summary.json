@@ -1,0 +1,24 @@
+{
+  "Commander 2015":{
+    "ReleaseDate":"2015/11/13",
+    "ExpansionCode":"C15",
+    "Decks":[
+      {
+        "Title":"Call of the Spirits",
+        "FrontCard":"Daxos the Returned"
+      },{
+        "Title":"Seize Control",
+        "FrontCard":"Mizzix of the Izmagnus"
+      },{
+        "Title":"Plunder the Graves",
+        "FrontCard":"Meren of Clan Nel Toth"
+      },{
+        "Title":"Wade into Battle",
+        "FrontCard":"Kalemne, Disciple of Iroas"
+      },{
+        "Title":"Swell the Host",
+        "FrontCard":"Ezuri, Claw of Progess"
+      }
+    ]
+  }
+}
